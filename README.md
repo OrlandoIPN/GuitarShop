@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+API HECHA CON STRAPPI PARA EL DEPLOYMENT DEL PROYECTO DE GUITARRAS.
